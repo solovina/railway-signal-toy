@@ -1,0 +1,810 @@
+[
+  {
+    "added_include_path": "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino"
+  },
+  {
+    "added_include_path": "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs"
+  },
+  {
+    "compile": {
+      "source_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": "SoftwareSerial.h"
+  },
+  {
+    "added_include_path": "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src"
+  },
+  {
+    "compile": {
+      "source_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": "DFRobotDFPlayerMini.h"
+  },
+  {
+    "added_include_path": "F:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini"
+  },
+  {
+    "compile": {
+      "source_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": "Servo.h"
+  },
+  {
+    "added_include_path": "F:\\Documents\\Arduino\\libraries\\Servo\\src"
+  },
+  {
+    "compile": {
+      "source_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\sketch\\railway_signal_toy.ino.cpp.merged.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src\\SoftwareSerial.cpp",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\SoftwareSerial\\SoftwareSerial.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src\\SoftwareSerial.cpp",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\SoftwareSerial\\SoftwareSerial.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "F:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini\\DFRobotDFPlayerMini.cpp",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\DFRobotDFPlayerMini\\DFRobotDFPlayerMini.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "F:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini\\DFRobotDFPlayerMini.cpp",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\DFRobotDFPlayerMini\\DFRobotDFPlayerMini.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "F:\\Documents\\Arduino\\libraries\\Servo\\src\\avr\\Servo.cpp",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\avr\\Servo.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "F:\\Documents\\Arduino\\libraries\\Servo\\src\\avr\\Servo.cpp",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\avr\\Servo.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "F:\\Documents\\Arduino\\libraries\\Servo\\src\\esp32\\Servo.cpp",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\esp32\\Servo.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "F:\\Documents\\Arduino\\libraries\\Servo\\src\\esp32\\Servo.cpp",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\esp32\\Servo.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "F:\\Documents\\Arduino\\libraries\\Servo\\src\\mbed\\Servo.cpp",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\mbed\\Servo.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "F:\\Documents\\Arduino\\libraries\\Servo\\src\\mbed\\Servo.cpp",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\mbed\\Servo.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "F:\\Documents\\Arduino\\libraries\\Servo\\src\\megaavr\\Servo.cpp",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\megaavr\\Servo.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "F:\\Documents\\Arduino\\libraries\\Servo\\src\\megaavr\\Servo.cpp",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\megaavr\\Servo.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "F:\\Documents\\Arduino\\libraries\\Servo\\src\\nrf52\\Servo.cpp",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\nrf52\\Servo.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "F:\\Documents\\Arduino\\libraries\\Servo\\src\\nrf52\\Servo.cpp",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\nrf52\\Servo.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "F:\\Documents\\Arduino\\libraries\\Servo\\src\\renesas\\Servo.cpp",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\renesas\\Servo.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "F:\\Documents\\Arduino\\libraries\\Servo\\src\\renesas\\Servo.cpp",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\renesas\\Servo.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "F:\\Documents\\Arduino\\libraries\\Servo\\src\\sam\\Servo.cpp",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\sam\\Servo.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "F:\\Documents\\Arduino\\libraries\\Servo\\src\\sam\\Servo.cpp",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\sam\\Servo.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "F:\\Documents\\Arduino\\libraries\\Servo\\src\\samd\\Servo.cpp",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\samd\\Servo.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "F:\\Documents\\Arduino\\libraries\\Servo\\src\\samd\\Servo.cpp",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\samd\\Servo.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "F:\\Documents\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\stm32f4\\Servo.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "F:\\Documents\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\stm32f4\\Servo.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "F:\\Documents\\Arduino\\libraries\\Servo\\src\\xmc\\Servo.cpp",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\xmc\\Servo.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "F:\\Documents\\Arduino\\libraries\\Servo\\src\\xmc\\Servo.cpp",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\xmc\\Servo.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "F:\\Documents\\Arduino\\libraries\\Servo\\src\\zephyr\\Servo.cpp",
+      "depfile_path": "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\zephyr\\Servo.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "C:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+        "-c",
+        "-g",
+        "-Os",
+        "-w",
+        "-std=gnu++11",
+        "-fpermissive",
+        "-fno-exceptions",
+        "-ffunction-sections",
+        "-fdata-sections",
+        "-fno-threadsafe-statics",
+        "-Wno-error=narrowing",
+        "-flto",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-mmcu=atmega328p",
+        "-DF_CPU=16000000L",
+        "-DARDUINO=10607",
+        "-DARDUINO_AVR_NANO",
+        "-DARDUINO_ARCH_AVR",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\cores\\arduino",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\variants\\eightanaloginputs",
+        "-IC:\\Users\\solo_\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.8\\libraries\\SoftwareSerial\\src",
+        "-IF:\\Documents\\Arduino\\libraries\\DFRobotDFPlayerMini",
+        "-IF:\\Documents\\Arduino\\libraries\\Servo\\src",
+        "F:\\Documents\\Arduino\\libraries\\Servo\\src\\zephyr\\Servo.cpp",
+        "-o",
+        "nul",
+        "-MMD",
+        "-MF",
+        "R:\\ArduinoLearning\\铁路信号灯玩具\\railway_signal_toy\\build\\nano-latest\\libraries\\Servo\\zephyr\\Servo.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  }
+]
